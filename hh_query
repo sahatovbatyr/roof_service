@@ -1,0 +1,27 @@
+NAME:(python or backend or developer or программист or django or fastapi or flask)
+ and DESCRIPTION:(django or fastapi or flask)
+ and name:(junior or junior+)
+ not middle
+ not middle+
+ not senior
+ not fullstack
+ not full-stack
+ not ментор
+ not senior
+ not преподаватель
+ not techlead
+ not техлид
+
+NAME:(python or backend or developer or программист or django or fastapi or flask)
+and DESCRIPTION:(django or fastapi or flask)
+and DESCRIPTION:(удаленно or удаленной or удаленный or удаленная )
+and name:( junior or junior+ or middle or -middle or premiddle)
+not senior
+not fullstack
+not full-stack
+not ментор
+not senior
+not преподаватель
+not techlead
+not техлид
+
